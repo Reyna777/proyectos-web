@@ -1,0 +1,22 @@
+rojo rosado f68787
+naranja claro  f8a978
+amarillo claro f1eb9a
+verde claro a4f6a5
+
+
+
+rojo gindo d34848
+rosa oscuroff8162
+naranja mostasa  ffcd60
+chocolate 352c0e
+
+
+rosa f38181
+mostasa claro fce38a
+claro  eaffd0
+celeste  95e1d3
+
+verde claro dbe9b7
+blaco fdfdf6
+rosa claro   #8b4513
+plomo claro b8b2a6
